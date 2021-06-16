@@ -38,6 +38,8 @@ http://projetos.charcode.com.br/casafeliz.mp4
 
 - O menu do topo ficou bom também o tamanho, isso é uma coisa a reforçar que ficou bom, as dimensões escolhidas no site. Apesar de perfil corporativo não seria de mal tom colocar uma suavização na transição do menu ao rolar o mouse da fase transparente para a fase ativa de navegação quando ele fica branco. Essa transição de cor e reposicionamento poderia receber uma transição mais suave pois hoje é instantânea. Eu obviamente não estou considerando outros fatores de desenvolvimento neste caso como complexidade, conflitos de css ou outra questão que tenha feito isso não ser implementado, pode ter sido proposital e desta forma a observação não se sustenta. 
 
+- Um pequeníssimo detalhe que eu incluiria no menu do topo é remover a linha preta que existe no rodapé do menu no estado branco. Ou colocar uma linha cinza bem suave porque na hora de correr o mouse sobre um pedaço do corpo branco do site ele aparece. Detalhismo de design mas ou um cinza claro ou se quiser destacar essa divisão no final do menu no estado branco colocar o azul (usado no site ) ao invés do branco pra ficar uma linha de destaque mais homogênea e bonita também com relação ao site como um todo. Na verdade eu colocaria um sombreado no final desse menu do topo, o efeito fica muito legal e não entra em conflito com o fato do menu ser corporativo. 
+
 - O campo de pesquisa não foi traduzido. Ao invés de ter o texto "pesquisar" possui o texto "search". Isso é na verdade um esquecimento ou falha de tradução pois acredito que o portal utilize alguma solução como o "i18en..." por exemplo e foi esquecido de ser incluído no JSON de tradução no caso ou não esteja funcionando bem neste componente. 
 
 - Ícones do Site: Eu observei inspecionando o site (porque os ícones ao olhar já suspeitei serem imagens) são utilizados imagens. Para melhorar a performance, redução de código css e até mesmo html poderia ter sido usado algum pacote de ícones como "font-awesome" ou "mdl-icons" ou até mesmo ter-se convertido as imagens em font-icons usando algumas técnicas ou ferramentas como o iconmoon ([IcoMoon App - Icon Font, SVG, PDF &amp; PNG Generator](https://icomoon.io/app/#/select)) que possui o recurso de conversão. 
@@ -96,12 +98,8 @@ Olhando o produto, percebo que devido as mudanças (eu tinha já citado, tô me 
   Já ví vários estudo falando que é o futuro das empresas. Esses ambientes de trabalho coletivo, colaborativo serão a bola da vez entre os profissionais autônomos e empresas com equipes remotas. Isso por causa do baixo custo, ambiente coletivo e descontraído e livre e pelo Networking entre profissionais, troca de idéias entre outros fatores sociais e profissionais. Este produto é uma pá cheia de ouro para esses ambientes que estão crescendo vertiginosamente e até eu uso um aqui no meu bairro quando estou saturado de trabalhar em casa. 
   
   Seria bastante interessante já visualizar este nicho de mercado e sair na frente não focando somente no mercado de empresas tradicionais que estão provavelmente com os dias contados. 
-  
-  
-  
-  
-  
-  ### Degustação:
+
+### Degustação:
 
 Uma técnica de vendas para sistemas e App's é a degustação. Acredito que poderiam disponibilizar alguma coisa do gênero para que o possível cliente pudesse experimentar um tour pelo App (mesmo que virtual ou animado) e entender como ele funciona e como ele poderia ser bom para o negócio dele. 
 
