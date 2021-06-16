@@ -18,13 +18,15 @@
 
 - Existe uma referência no slide inicial (pelo menos para mim foi o primeiro a aparecer) que se refere ao produto "My Seat" (me perdoem se estiver engado) e na imagem o produto está sendo exibido em um smartphone. Isso dá a entender de cara que o produto é um App. Estigado pela curiosidade fui procurar o produto nas lojas android e Apple. No entanto em ambas as buscas não tive sucesso em encontrar o produto/ App. 
   
-  <img src="file:///home/thiagolucio/Downloads/Atos/androidApp.png" title="" alt="androidApp.png" data-align="center">
+  <img src="http://projetos.charcode.com.br/atos-review/androidApp.png" title="" alt="androidApp.png" data-align="center">
   
   Acredito que possa ser uma estratégia da empresa e até mesmo que ele não esteja disponível propositalmente mas se não for este o caso aconselho fortemente investir em posicionamento na loja, até mesmo se necessário efetuando algum pagamento se existir esse tipo de plano. 
   
   Uma questão relevante é que com a pandemia os processos de aceleração desvinculativas de bases empresariais e a tendência do home office não somente em mercado de tecnologia faz com que o produto tenha de ter um forte impacto de marketing com imagens impactantes e que passem imediatamente o valor dele para o público alvo. A imagem utilizada ao bater o olho na minha visão não demonstra de forma clara o foco do Aplicativo. Somente depois de ler entendi que o desenho mostrado na tela do celular do slide é referente ao posicionamento de mesas no escritório e não de um estacionamento em frente a um prédio.
   
-  ![myseat.png](/home/thiagolucio/Downloads/Atos/myseat.png)
+  <div align="center">
+  <img src="http://projetos.charcode.com.br/atos-review/myseat.png"/>
+  </div>
 
 Uma técnica muito promissora para estes casos é utilizar animações para atrair a atenção do usuário para o banner/ slide e também valorizar a apresentação do produto. Elas estão se tornando comum no mundo corporativo também e tem um impacto enorme (ví esse resultado em vários casos). Em um caso mínimo uma imagem muito bem trabalhada pensando no máximo de informação instantânea que ela pode passar sobre o que o produto faz, na verdade seu valor de preferência. Um exemplo que posso deixar aqui são essas duas animações que fizemos aqui na empresa, abaixo:
 
@@ -41,18 +43,18 @@ http://projetos.charcode.com.br/casafeliz.mp4
 - Ícones do Site: Eu observei inspecionando o site (porque os ícones ao olhar já suspeitei serem imagens) são utilizados imagens. Para melhorar a performance, redução de código css e até mesmo html poderia ter sido usado algum pacote de ícones como "font-awesome" ou "mdl-icons" ou até mesmo ter-se convertido as imagens em font-icons usando algumas técnicas ou ferramentas como o iconmoon ([IcoMoon App - Icon Font, SVG, PDF &amp; PNG Generator](https://icomoon.io/app/#/select)) que possui o recurso de conversão. 
 
 - Outro ponto de melhoria ainda falando de "íconização" são os campos de select que usam ícones do tipo "arrow" em caracteres ASCI (caracteres de teclado).
-
-  ![asciiarrow.png](/home/thiagolucio/Downloads/Atos/asciiarrow.png)
+  
+  ![asciiarrow.png](http://projetos.charcode.com.br/atos-review/asciiarrow.png)
 
 Seria de bom tom usar aí a mesma solução citada acima com um iconfont e ajudaria inclusive no alinhamento que não está centralizado. É um ajuste pequeno e isso pode ser considerado perfeccionismo mas não posso deixar de reparar isso devido a personalidade que tenho. Eu ia ficar incomodado toda vez que olhasse. 
 
-![veido.png](/home/thiagolucio/Downloads/Atos/veido.png)
+![veido.png](http://projetos.charcode.com.br/atos-review/veido.png)
 
 A mesma questão pode ser dita do vídeo da página. O botão na minha visão está distorcido, mais largura que altura (pelo menos no centro, o triângulo). Centralizar ele e trocar o ícone por outro mais "player" e igualmente limpo seria uma decisão que eu tomaria com certeza. 
 
 As fontes foram muito bem escolhidas. No entanto as fontes do menu eu colocaria mais espessura nela pra ser mais facilmente visível. Isso é um ponto de pessoalidade no caso, não existe qualquer embasamento técnico para essa opinião, é simplesmente pessoal mesmo. Um ponto muito bom a forma como o menu trabalha. Achei bem elegante e bem feito. 
 
-![fontes-menu.png](/home/thiagolucio/Downloads/Atos/fontes-menu.png)
+![fontes-menu.png](http://projetos.charcode.com.br/atos-review/fontes-menu.png)
 
 O formulário de contato não ocupa todo o espaço do container. Eu não entendi muito bem porque dessa escolha no caso. Pode ser que do lado direito dele exista um mapa que não carregou no meu computador. Mas se não existe nada ali do lado de conteúdo aconselho reduzir o tamanho horizontal dele aumento sua largura e deixando o formulário de contato com uma altura menor em relação ao tamanho que ele tem hoje porque formulários são chatos e quanto mais cumpridos forem mais desanima o usuário a preencher. Seu formulário não possui muitos campos mas por ter essa altura ele dá a sensação visual de ter uma jornada de campos maior que realmente possui. 
 
@@ -77,7 +79,7 @@ Existe um botão "fixed" com o ícone de email que corre fixo na página como co
 
 Existe alguma coisa errada na página depois do rodapé dela. Eu testei isso em outros navegadores (porque tenho FF, Chrome, Brave, Edge no meu Linux) e fica uma barra estranha no final com um overflow e fundo escuro. Isso aí é uma coisa crítica de layout na minha opinião nem poderia ir pra produção com esse problema (se não for algo da minha máquina mas eu tenho dual boot com PopOS e Fedora e em ambos isso aconteceu).
 
-![coisaestranha.png](/home/thiagolucio/Downloads/Atos/coisaestranha.png)
+![coisaestranha.png](http://projetos.charcode.com.br/atos-review/coisaestranha.png)
 
 ## Análise da apresentação do valor do produto:
 
@@ -94,12 +96,12 @@ Olhando o produto, percebo que devido as mudanças (eu tinha já citado, tô me 
   Já ví vários estudo falando que é o futuro das empresas. Esses ambientes de trabalho coletivo, colaborativo serão a bola da vez entre os profissionais autônomos e empresas com equipes remotas. Isso por causa do baixo custo, ambiente coletivo e descontraído e livre e pelo Networking entre profissionais, troca de idéias entre outros fatores sociais e profissionais. Este produto é uma pá cheia de ouro para esses ambientes que estão crescendo vertiginosamente e até eu uso um aqui no meu bairro quando estou saturado de trabalhar em casa. 
   
   Seria bastante interessante já visualizar este nicho de mercado e sair na frente não focando somente no mercado de empresas tradicionais que estão provavelmente com os dias contados. 
-
-- 
-
-- 
-
-- ## Degustação:
+  
+  
+  
+  
+  
+  ### Degustação:
 
 Uma técnica de vendas para sistemas e App's é a degustação. Acredito que poderiam disponibilizar alguma coisa do gênero para que o possível cliente pudesse experimentar um tour pelo App (mesmo que virtual ou animado) e entender como ele funciona e como ele poderia ser bom para o negócio dele. 
 
@@ -117,4 +119,4 @@ Eu também vou deixar de lado a análise da Responsividade. Posteriormente posso
 
 Obrigado por seu tempo e pelo papo e processo das entrevistas. Foi realmente um processo leve e com boa sinergia. Independente de qualquer coisa, continuem assim neste caminho que vão ter muito sucesso nos processo. Foi o mais leve e fluído que fiz até agora. 
 
-Grande abraço e Be Safe!
+Grande abraço e ""Be Safe!""
